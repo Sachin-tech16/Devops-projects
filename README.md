@@ -164,5 +164,3 @@ Deploy the same setup on AWS or Kubernetes
 Sachin
 DevOps / Cloud Enthusiast
 
-yaml
-Copy code
