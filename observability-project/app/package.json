@@ -1,0 +1,13 @@
+{
+  "name": "sample-observability-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "prom-client": "^14.2.0",
+    "pino": "^9.0.0",
+    "pino-pretty": "^11.0.0",
+    "jaeger-client": "^3.19.0",
+    "opentracing": "^0.14.7"
+  }
+}
